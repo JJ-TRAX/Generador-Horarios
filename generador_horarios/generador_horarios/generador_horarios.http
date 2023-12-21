@@ -1,0 +1,6 @@
+@generador_horarios_HostAddress = http://localhost:5036
+
+GET {{generador_horarios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
